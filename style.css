@@ -1,0 +1,41 @@
+*{
+    color:rgb(179, 65, 103);
+}
+
+body {
+    background-color:rgb(255, 217, 238);
+}
+
+.colorbox {
+    background-color: rgb(255, 234, 177);
+}
+
+#myarticle h2, #myarticle p {
+    color:rgb(255, 217, 238);
+}
+
+#myarticle {
+    background-color: rgb(53, 96, 171);
+    padding:5px 50px 15px;
+    margin:10px;
+    border-style:solid;
+    border-width:10px;
+    font-family:monospace;
+}
+
+#Avenir h2 {
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div p {
+    color:rgb(53, 96, 171)
+}
+
+div,span {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(53, 96, 171)
+}
